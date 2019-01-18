@@ -1,0 +1,2 @@
+
+There is a bug in the installation of the package, on windows, I could not install either the cordova-plugin or git, I had to enter the npm and get the installation by la, I had to run npm i cordova-plugin-lottie-splashscreen
